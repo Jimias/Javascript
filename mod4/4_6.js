@@ -1,4 +1,5 @@
-'use strict';
+'use strict'
+
 
 const form = document.getElementById('searchForm');
 const queryInput = document.getElementById('query');
